@@ -109,3 +109,6 @@ git remote rm {repo 이름}
 [GIT 공식 문서](https://git-scm.com/book/ko/v1/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 
 [https://help.github.com/en/articles/syncing-a-fork](https://help.github.com/en/articles/syncing-a-fork)
+
+[JinKyou Son님의 블로그](https://json.postype.com/post/210431)
+
