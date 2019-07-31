@@ -41,10 +41,10 @@ upstream https://github.com/원본 제작자 이름/원본 repo.git (push)
   
 ```bash
 $ git fetch upstream
-remote: Counting objects: 56, done.
-remote: Compressing objects: 100% (53/53), done.
-remote: Total 76 (delta 35), reused 35 (delta 9)
-Unpacking objects: 100% (61/61), done.
+remote: Enumerating objects: 1, done.
+remote: Counting objects: 100% (1/1), done.
+remote: Total 1 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (1/1), done.
 From https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY
  * [new branch]      master     -> upstream/master
 ```  
@@ -74,6 +74,13 @@ Fast-forward
   
 ``` bash
 $ git push -u origin master
+Enumerating objects: 1, done.
+Counting objects: 100% (1/1), done.
+Writing objects: 100% (1/1), 659 bytes | 659.00 KiB/s, done.
+Total 1 (delta 0), reused 0 (delta 0)
+To https://github.com/{나의 깃 아이디}/{레포 이름}.git
+   995e60f..aba2918  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
 ```  
 > 지금까지 진행 한 것은 local repo에 일어난 것이므로 push를 통해 remote repo에도 적용시켜 준다.
 
