@@ -101,3 +101,11 @@ git remote rm {repo 이름}
 ```
   
 > `git remote rm {repo 이름}` 을 통해서 리모트 저장소를 삭제할 수 있다.
+
+#### 참조
+
+[mylko72님의 블로그](https://mylko72.gitbooks.io/git/content/remote/remove.html)  
+
+[GIT 공식 문서](https://git-scm.com/book/ko/v1/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+
+[https://help.github.com/en/articles/syncing-a-fork](https://help.github.com/en/articles/syncing-a-fork)
