@@ -1,6 +1,6 @@
 # 내가 보기 위한 GIT 활용법
 
-## Fork 한 repository 코드 최신화하기  
+### Fork 한 repository 코드 최신화하기  
   
 #### 이용상황
 
@@ -11,7 +11,7 @@
   
 #### 순서(초기)
 
-1. 동기화할 새로운 레포지토리를 추가한다.
+**1. 동기화할 새로운 레포지토리를 추가한다.**
   
 ```bash
 $ git remote add {repo 이름} { git 원본 repo url}
@@ -22,7 +22,7 @@ git 원본 url은 처음에 fork 해온 원본 repository의 url를 의미하는
 
 
 
-2. 추가한 새로운 레포가 추가되었는지 확인한다.  
+**2. 추가한 새로운 레포가 추가되었는지 확인한다.**
   
 ```bash
 $ git remote -v
@@ -37,7 +37,7 @@ upstream https://github.com/원본 제작자 이름/원본 repo.git (push)
 
 
 
-3. 추가한 upstream repo로부터 최신 업데이트를 가져온다.  
+**3. 추가한 upstream repo로부터 최신 업데이트를 가져온다.**  
   
 ```bash
 $ git fetch upstream
@@ -53,7 +53,7 @@ From https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY
 
 
 
-4. upstream repo 에서 나의 local로 merge 한다.  
+**4. upstream repo 에서 나의 local로 merge 한다.**  
   
 ```bash
 $ git merge upstream/master
@@ -70,17 +70,34 @@ Fast-forward
 
 
   
-5. 마지막으로 지금까지 한 것은 local repository에 일어난 것이므로 push를 통해 remote repo에도 적용해준다.  
+**5. 마지막으로 remote 에도 적용해준다.**  
   
 ``` bash
 $ git push -u origin master
 ```  
+> 지금까지 진행 한 것은 local repo에 일어난 것이므로 push를 통해 remote repo에도 적용시켜 준다.
+
 
 #### 지속적으로 할 경우(처음이 아닌 경우)  
 만약 지속적으로 최신화를 해야 하는 경우 초기에 위와 같은 순서대로 설정을 해주고 **3 ~ 5번**을 지속적으로 하여 계속해서 새로운 repo를 만드는 것이 아니라 upstream를 업데이트 시켜주는 식으로 진행한다.  
 
 
 
-## 부록  
+## 부록(부가적인 명령어)  
   
-  #### 부가적인 코드
+#### 리모트 저장소 이름 변경
+  
+```bash
+git remote rename {바꿀 repo 이름} {변경될 repo 이름}
+```
+  
+> `git remote rename {기존 repo 이름} {원하는 repo 이름}` 을 통해서 이름을 변경할 수 있다. 주로 이름은 `upstream` 을 이용한다.
+  
+  
+#### 리모트 저장소 삭제
+  
+```bash
+git remote rm {repo 이름}
+```
+  
+> `git remote rm {repo 이름}` 을 통해서 리모트 저장소를 삭제할 수 있다.
