@@ -5,3 +5,6 @@
 
 [Git_repo_cheatsheet](https://github.com/rlagksruf16/Cheat-sheet/blob/master/git_repo_cheat.md)
 
+
+
+### 2. Heroku 배포하기(TBD)
