@@ -2,14 +2,14 @@
 
 ### Fork 한 repository 코드 최신화하기  
   
-#### 이용상황
+### 이용상황
 
 - 오픈소스 프로젝트에 참여할때
 - 개인이 아닌 많은 사람들과 협업할 때  
   
   
   
-#### 순서(초기)
+### 순서(초기)
 
 **1. 동기화할 새로운 레포지토리를 추가한다.**
   
@@ -85,14 +85,14 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 > 지금까지 진행 한 것은 local repo에 일어난 것이므로 push를 통해 remote repo에도 적용시켜 준다.
 
 
-#### 지속적으로 할 경우(처음이 아닌 경우)  
+### 지속적으로 할 경우(처음이 아닌 경우)  
 만약 지속적으로 최신화를 해야 하는 경우 초기에 위와 같은 순서대로 설정을 해주고 **3 ~ 5번**을 지속적으로 하여 계속해서 새로운 repo를 만드는 것이 아니라 upstream를 업데이트 시켜주는 식으로 진행한다.  
 
 
 
 ## 부록(부가적인 명령어)  
   
-#### 리모트 저장소 이름 변경
+### 리모트 저장소 이름 변경
   
 ```bash
 git remote rename {바꿀 repo 이름} {변경될 repo 이름}
@@ -101,7 +101,7 @@ git remote rename {바꿀 repo 이름} {변경될 repo 이름}
 > `git remote rename {기존 repo 이름} {원하는 repo 이름}` 을 통해서 이름을 변경할 수 있다. 주로 이름은 `upstream` 을 이용한다.
   
   
-#### 리모트 저장소 삭제
+### 리모트 저장소 삭제
   
 ```bash
 git remote rm {repo 이름}
@@ -109,7 +109,7 @@ git remote rm {repo 이름}
   
 > `git remote rm {repo 이름}` 을 통해서 리모트 저장소를 삭제할 수 있다.
 
-#### 참조
+### 참조
 
 [mylko72님의 블로그](https://mylko72.gitbooks.io/git/content/remote/remove.html)  
 
