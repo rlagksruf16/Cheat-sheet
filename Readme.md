@@ -1,10 +1,12 @@
 # 내가 보기 위해 만든 CheatSheet 모음집입니다
 
 
-### 1. 협업, 오픈소스 프로젝트 진행 중에서 fork 한 repo 와 origin 레포 최신화 하는 법
+### 1. Git Fork로 repository 최신화하기
 
-[Git_repo_cheatsheet](https://github.com/rlagksruf16/Cheat-sheet/blob/master/git_repo_cheat.md)
+[Git_fork_cheatsheet](https://github.com/rlagksruf16/Cheat-sheet/blob/master/git_repo_cheat.md)
 
 
 
-### 2. Heroku 배포하기(TBD)
+### 1. Git Branch 활용법
+
+[Git_branch_cheatsheet](https://github.com/rlagksruf16/Cheat-sheet/blob/master/git_branch_cheat.md)
