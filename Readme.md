@@ -7,6 +7,10 @@
 
 
 
-### 1. Git Branch 활용법
+### 2. Git Branch 활용법
 
 [Git_branch_cheatsheet](https://github.com/rlagksruf16/Cheat-sheet/blob/master/git_branch_cheat.md)
+
+
+
+### 3. Heroku 업로드 하는 법
