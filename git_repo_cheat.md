@@ -1,4 +1,4 @@
-# 내가 보기 위한 GIT 활용법
+# 내가 보기 위한 GIT Fork 활용법
 
 ### Fork 한 repository 코드 최신화하기  
   
