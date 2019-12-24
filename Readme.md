@@ -13,9 +13,12 @@
 
 
 
-### 3. Heroku 업로드 하는 법
+### 3. Github에 프로젝트 올리기
+
+[Git_Github_cheatsheet](https://github.com/rlagksruf16/Cheat-sheet/blob/master/git_github_upload_cheat.md)
 
 
 
+### 4. Heroku 업로드 하는 법
 
 ### 5. AWS 배포하기
