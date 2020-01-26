@@ -1,4 +1,4 @@
-# 내가 보기 위해 만든 CheatSheet 모음집입니다
+# 공부한 것들과 헷갈릴 수 있는 것들을 정리해 놓은 CheatSheet 
 
 
 ### 1. Git Fork로 repository 최신화하기
