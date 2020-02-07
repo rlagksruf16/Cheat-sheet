@@ -27,3 +27,9 @@
 ### 6. C++ STL Stack 사용법
 
 [C++_STL_STACK](https://github.com/rlagksruf16/Cheat-sheet/blob/master/AlgorithmFolder/stack.md)
+
+
+
+### 7. C++ STL Queue 사용법
+
+[C++_STL_QUEUE](https://github.com/rlagksruf16/Cheat-sheet/blob/master/AlgorithmFolder/queue.md)
