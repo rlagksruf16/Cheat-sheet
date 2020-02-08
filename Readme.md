@@ -33,3 +33,9 @@
 ### 7. C++ STL Queue 사용법
 
 [C++_STL_QUEUE](https://github.com/rlagksruf16/Cheat-sheet/blob/master/AlgorithmFolder/queue.md)
+
+
+
+### 8. C++ STL Sort 사용법
+
+[C++_STL+SORT](https://github.com/rlagksruf16/Cheat-sheet/blob/master/AlgorithmFolder/sort.md)
