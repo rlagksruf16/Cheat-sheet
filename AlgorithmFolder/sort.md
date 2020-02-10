@@ -1,4 +1,4 @@
-#### C++ STL Sort CheetSheet [C++]
+## C++ STL Sort CheetSheet [C++]
 
 - C++ algorithm 헤더파일 안에 존재
 - 기본적으로 퀵 정렬을 기반으로 구성된 것이기 때문에 시간복잡도는 O(nlogn)
