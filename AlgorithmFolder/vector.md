@@ -7,6 +7,7 @@
 - 동적인 배열으로 자유롭게 추가, 삭제가 가능한 배열
 - 크기, 메모리를 자동으로 설정하는 유동적인 배열
 - vector 헤더 클래스에 포함 -> `#include <vector` 
+- vector와 관련된 함수들은 아래의 기본 함수들 말고도 엄청 많다
 
 
 
@@ -30,6 +31,12 @@ a.front();
 // vector 뒷부분 출력
 a.back();
 
+// vector의 0번째 원소를 가리키는 iterator 리턴
+a.begin();
+
+//vector의 마지막 원소를 가리키는 iterator 리턴
+a.end()l
+
 // vector 비어있는지 여부 확인 비어있으면 1 출력, 비어있지 않으면 0 출력
 a.empty();
 
@@ -41,3 +48,18 @@ a.clear();
 
 ```
 
+
+
+#### Vector와 알고있으면 좋은 예시
+
+
+
+```c++
+
+// <algorithm>의 reverse()를 활용하여 vector 의 원소들 순서 뒤집기
+reverse(a.begin(), a.end());
+
+// <algorithm>의 sort()를 이용하여 vector의 원소들을 오름차순으로 정렬하기
+sort(a.begin(), a.end());
+
+```
