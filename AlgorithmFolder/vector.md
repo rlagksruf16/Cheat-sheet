@@ -1,4 +1,4 @@
-## C++ STL Vector, Pair CheetSheet [C++]
+## C++ STL Vector CheetSheet [C++]
 
 
 
