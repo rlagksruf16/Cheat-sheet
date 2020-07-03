@@ -1,9 +1,5 @@
 ## C++ STL Vector CheetSheet [C++]
 
-
-
-#### Vector
-
 - 동적인 배열으로 자유롭게 추가, 삭제가 가능한 배열
 - 크기, 메모리를 자동으로 설정하는 유동적인 배열
 - vector 헤더 클래스에 포함 -> `#include <vector` 
