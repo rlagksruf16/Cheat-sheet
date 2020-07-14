@@ -57,3 +57,9 @@
 ### 11. C++ STL Pair 사용법
 
 [C++ STL Pair](https://github.com/rlagksruf16/Cheat-sheet/blob/master/C%2B%2B/pair.md)
+
+
+
+### 12. C++ find() 사용법
+
+[C++ find()](https://github.com/rlagksruf16/Cheat-sheet/blob/master/C%2B%2B/find.md)
