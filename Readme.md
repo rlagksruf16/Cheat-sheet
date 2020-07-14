@@ -42,18 +42,18 @@
 
 
 
-### 8. C++ STL Sort 사용법 2
+### 9. C++ STL Sort 사용법 2
 
 [C++ STL SORT](https://github.com/rlagksruf16/Cheat-sheet/blob/master/C%2B%2B/sort2.md)
 
 
 
-### 9. C++ STL Vector 사용법
+### 10. C++ STL Vector 사용법
 
 [C++ STL VECTOR](https://github.com/rlagksruf16/Cheat-sheet/blob/master/C%2B%2B/vector.md)
 
 
 
-### 10. C++ STL Pair 사용법
+### 11. C++ STL Pair 사용법
 
-[c++ STL Pair](https://github.com/rlagksruf16/Cheat-sheet/blob/master/C%2B%2B/pair.md)
+[C++ STL Pair](https://github.com/rlagksruf16/Cheat-sheet/blob/master/C%2B%2B/pair.md)
