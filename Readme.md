@@ -3,19 +3,19 @@
 
 ### 1. Git Fork로 repository 최신화하기
 
-[Git_fork_cheatsheet](https://github.com/rlagksruf16/Cheat-sheet/blob/master/gitFolder/git_repo_cheat.md)
+[Git fork cheatsheet](https://github.com/rlagksruf16/Cheat-sheet/blob/master/gitFolder/git_repo_cheat.md)
 
 
 
 ### 2. Git Branch 활용법
 
-[Git_branch_cheatsheet](https://github.com/rlagksruf16/Cheat-sheet/blob/master/gitFolder/git_branch_cheat.md)
+[Git branch cheatsheet](https://github.com/rlagksruf16/Cheat-sheet/blob/master/gitFolder/git_branch_cheat.md)
 
 
 
 ### 3. Github에 프로젝트 올리기
 
-[Git_Github_cheatsheet](https://github.com/rlagksruf16/Cheat-sheet/blob/master/gitFolder/git_github_upload_cheat.md)
+[Git Github cheatsheet](https://github.com/rlagksruf16/Cheat-sheet/blob/master/gitFolder/git_github_upload_cheat.md)
 
 ### 4. Heroku 업로드 하는 법
 
@@ -26,22 +26,34 @@
 
 ### 6. C++ STL Stack 사용법
 
-[C++_STL_STACK](https://github.com/rlagksruf16/Cheat-sheet/blob/master/AlgorithmFolder/stack.md)
+[C++ STL STACK](https://github.com/rlagksruf16/Cheat-sheet/blob/master/C%2B%2B/stack.md)
 
 
 
 ### 7. C++ STL Queue 사용법
 
-[C++_STL_QUEUE](https://github.com/rlagksruf16/Cheat-sheet/blob/master/AlgorithmFolder/queue.md)
+[C++ STL QUEUE](https://github.com/rlagksruf16/Cheat-sheet/blob/master/C%2B%2B/queue.md)
 
 
 
-### 8. C++ STL Sort 사용법
+### 8. C++ STL Sort 사용법 1
 
-[C++_STL+SORT](https://github.com/rlagksruf16/Cheat-sheet/blob/master/AlgorithmFolder/sort.md)
+[C++ STL SORT](https://github.com/rlagksruf16/Cheat-sheet/blob/master/C%2B%2B/sort1.md)
+
+
+
+### 8. C++ STL Sort 사용법 2
+
+[C++ STL SORT](https://github.com/rlagksruf16/Cheat-sheet/blob/master/C%2B%2B/sort2.md)
 
 
 
 ### 9. C++ STL Vector 사용법
 
-[C++_STL_VECTOR](https://github.com/rlagksruf16/Cheat-sheet/blob/master/AlgorithmFolder/vector.md)
+[C++ STL VECTOR](https://github.com/rlagksruf16/Cheat-sheet/blob/master/C%2B%2B/vector.md)
+
+
+
+### 10. C++ STL Pair 사용법
+
+[c++ STL Pair](https://github.com/rlagksruf16/Cheat-sheet/blob/master/C%2B%2B/pair.md)
